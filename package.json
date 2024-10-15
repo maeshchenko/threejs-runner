@@ -1,0 +1,22 @@
+{
+  "name": "threejs-runner",
+  "version": "1.0.0",
+  "description": "threejs runner with generation music",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maeshchenko/threejs-runner.git"
+  },
+  "keywords": [
+    "threejs"
+  ],
+  "author": "Mkeira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maeshchenko/threejs-runner/issues"
+  },
+  "homepage": "https://github.com/maeshchenko/threejs-runner#readme"
+}
